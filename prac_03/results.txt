@@ -1,0 +1,6 @@
+86 is Passable
+16 is Bad
+84 is Passable
+28 is Bad
+50 is Passable
+52 is Passable
