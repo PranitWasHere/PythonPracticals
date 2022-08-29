@@ -6,6 +6,7 @@ billing_days = int(input("Enter number of billing days: "))
 estimated_bill = (cents * daily_use * billing_days)/100
 print(f"Estimated bill ${estimated_bill}")
 
+
 # part 2
 print("Electricity bill estimator 2.0")
 TARIFF_11 = 0.244618
